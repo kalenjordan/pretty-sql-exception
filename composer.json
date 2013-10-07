@@ -16,7 +16,7 @@
     },
     "extra": {
         "map": [
-            ["app/code/local/Zend/Db/Statement/Pdo.php", "app/code/local/Zend/Db/Statement/Pdo.php"],
+            ["app/code/local/Zend/Db/Statement/Pdo.php", "app/code/local/Zend/Db/Statement/Pdo.php"]
         ]
     }
 }

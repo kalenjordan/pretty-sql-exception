@@ -3,7 +3,7 @@
 /**
  * Only customization to this class is that below in _execute() the SQL
  * is pretty-printed with the exception.
- * 
+ *
  * Class Zend_Db_Statement_Pdo
  */
 class Zend_Db_Statement_Pdo extends Zend_Db_Statement implements IteratorAggregate
