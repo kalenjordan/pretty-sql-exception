@@ -1,0 +1,22 @@
+{
+    "name": "kalenjordan/pretty-sql-exception",
+    "type": "magento-module",
+    "description": "Pretty Printed SQL in Exceptions",
+    "keywords": ["sql", "exception", "magento"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Kalen Jordan",
+            "homepage": "http://twitter.com/kalenjordan",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "jdorn/sql-formatter": "dev-master"
+    },
+    "extra": {
+        "map": [
+            ["app/code/local/Zend/Db/Statement/Pdo.php", "app/code/local/Zend/Db/Statement/Pdo.php"],
+        ]
+    }
+}
