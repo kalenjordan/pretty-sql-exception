@@ -12,7 +12,9 @@
         }
     ],
     "require": {
-        "jdorn/sql-formatter": "*"
+        "jdorn/sql-formatter": "*",
+        "magento-hackathon/magento-composer-installer": "dev-master"
+
     },
     "extra": {
         "map": [
